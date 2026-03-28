@@ -1,0 +1,40 @@
+{
+  "production": [
+    "What should be done before batch start?",
+    "What is MBR?",
+    "What is BMR used for?",
+    "Is cleaning validation required?",
+    "What should operators wear during production?",
+    "Are draft MBRs allowed in production?",
+    "What steps must be double-checked?",
+    "What happens if deviation occurs in BMR?",
+    "Is equipment calibration required?",
+    "Show SOP for batch execution"
+  ],
+  "quality": [
+    "When should deviation be logged?",
+    "What is CAPA?",
+    "What is required in CAPA?",
+    "Should draft CAPA be implemented?",
+    "Who approves deviation closure?",
+    "What must be identified in deviation?",
+    "What is preventive action?",
+    "How is CAPA effectiveness verified?",
+    "What is deviation investigation process?",
+    "Show quality SOPs"
+  ],
+  "inventory": [
+    "What is GRN?",
+    "When should GRN be created?",
+    "Should draft GRN be used?",
+    "What is stock movement?",
+    "How often is inventory reconciliation done?"
+  ],
+  "refusal": [
+    "Who is company CEO?",
+    "What is company revenue?",
+    "Tell me marketing strategy",
+    "What is HR policy?",
+    "Who is plant head?"
+  ]
+}

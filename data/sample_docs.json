@@ -1,0 +1,229 @@
+[
+  {
+    "doc_id": "SOP_001",
+    "module": "Production",
+    "submodule": "Production SOPs",
+    "status": "Approved",
+    "version": "v2",
+    "is_latest": true,
+    "content": "Equipment must be cleaned before batch start. Line clearance must be performed."
+  },
+  {
+    "doc_id": "SOP_002",
+    "module": "Production",
+    "submodule": "MBR",
+    "status": "Approved",
+    "version": "v1",
+    "is_latest": true,
+    "content": "Master Batch Record defines manufacturing instructions. It must be reviewed before execution."
+  },
+  {
+    "doc_id": "SOP_003",
+    "module": "Production",
+    "submodule": "BMR",
+    "status": "Approved",
+    "version": "v1",
+    "is_latest": true,
+    "content": "Batch Manufacturing Record must be filled during production. All steps must be recorded."
+  },
+  {
+    "doc_id": "SOP_004",
+    "module": "Production",
+    "submodule": "Production SOPs",
+    "status": "Approved",
+    "version": "v3",
+    "is_latest": true,
+    "content": "Equipment calibration must be verified before use."
+  },
+  {
+    "doc_id": "SOP_005",
+    "module": "Production",
+    "submodule": "MBR",
+    "status": "Draft",
+    "version": "v2",
+    "is_latest": true,
+    "content": "Draft MBR should not be used in production."
+  },
+  {
+    "doc_id": "SOP_006",
+    "module": "Production",
+    "submodule": "BMR",
+    "status": "Approved",
+    "version": "v2",
+    "is_latest": true,
+    "content": "Deviation in BMR must be reported immediately."
+  },
+  {
+    "doc_id": "SOP_007",
+    "module": "Production",
+    "submodule": "Production SOPs",
+    "status": "Approved",
+    "version": "v1",
+    "is_latest": true,
+    "content": "Operators must wear PPE during production."
+  },
+  {
+    "doc_id": "SOP_008",
+    "module": "Production",
+    "submodule": "MBR",
+    "status": "Approved",
+    "version": "v2",
+    "is_latest": true,
+    "content": "Batch instructions must be followed strictly."
+  },
+  {
+    "doc_id": "SOP_009",
+    "module": "Production",
+    "submodule": "BMR",
+    "status": "Approved",
+    "version": "v3",
+    "is_latest": true,
+    "content": "All critical steps must be double-checked."
+  },
+  {
+    "doc_id": "SOP_010",
+    "module": "Production",
+    "submodule": "Production SOPs",
+    "status": "Approved",
+    "version": "v2",
+    "is_latest": true,
+    "content": "Cleaning validation must be documented."
+  },
+
+  {
+    "doc_id": "SOP_011",
+    "module": "Quality",
+    "submodule": "Deviations",
+    "status": "Approved",
+    "version": "v1",
+    "is_latest": true,
+    "content": "Deviation must be logged within 24 hours."
+  },
+  {
+    "doc_id": "SOP_012",
+    "module": "Quality",
+    "submodule": "CAPA",
+    "status": "Approved",
+    "version": "v2",
+    "is_latest": true,
+    "content": "CAPA must include root cause analysis."
+  },
+  {
+    "doc_id": "SOP_013",
+    "module": "Quality",
+    "submodule": "Deviations",
+    "status": "Approved",
+    "version": "v2",
+    "is_latest": true,
+    "content": "Investigation must be completed for each deviation."
+  },
+  {
+    "doc_id": "SOP_014",
+    "module": "Quality",
+    "submodule": "CAPA",
+    "status": "Draft",
+    "version": "v1",
+    "is_latest": true,
+    "content": "Draft CAPA should not be implemented."
+  },
+  {
+    "doc_id": "SOP_015",
+    "module": "Quality",
+    "submodule": "Deviations",
+    "status": "Approved",
+    "version": "v3",
+    "is_latest": true,
+    "content": "Deviation closure must be approved by QA."
+  },
+  {
+    "doc_id": "SOP_016",
+    "module": "Quality",
+    "submodule": "CAPA",
+    "status": "Approved",
+    "version": "v3",
+    "is_latest": true,
+    "content": "Corrective actions must be tracked."
+  },
+  {
+    "doc_id": "SOP_017",
+    "module": "Quality",
+    "submodule": "Deviations",
+    "status": "Approved",
+    "version": "v2",
+    "is_latest": true,
+    "content": "All deviations must be categorized."
+  },
+  {
+    "doc_id": "SOP_018",
+    "module": "Quality",
+    "submodule": "CAPA",
+    "status": "Approved",
+    "version": "v2",
+    "is_latest": true,
+    "content": "Preventive actions must be documented."
+  },
+  {
+    "doc_id": "SOP_019",
+    "module": "Quality",
+    "submodule": "Deviations",
+    "status": "Approved",
+    "version": "v1",
+    "is_latest": true,
+    "content": "Root cause must be identified."
+  },
+  {
+    "doc_id": "SOP_020",
+    "module": "Quality",
+    "submodule": "CAPA",
+    "status": "Approved",
+    "version": "v1",
+    "is_latest": true,
+    "content": "CAPA effectiveness must be verified."
+  },
+
+  {
+    "doc_id": "SOP_021",
+    "module": "Inventory",
+    "submodule": "GRN / Incoming Materials",
+    "status": "Approved",
+    "version": "v1",
+    "is_latest": true,
+    "content": "GRN must be created for all incoming materials."
+  },
+  {
+    "doc_id": "SOP_022",
+    "module": "Inventory",
+    "submodule": "Stock Movements",
+    "status": "Approved",
+    "version": "v2",
+    "is_latest": true,
+    "content": "Stock movement must be recorded in system."
+  },
+  {
+    "doc_id": "SOP_023",
+    "module": "Inventory",
+    "submodule": "GRN / Incoming Materials",
+    "status": "Draft",
+    "version": "v2",
+    "is_latest": true,
+    "content": "Draft GRN process is under review."
+  },
+  {
+    "doc_id": "SOP_024",
+    "module": "Inventory",
+    "submodule": "Stock Movements",
+    "status": "Approved",
+    "version": "v3",
+    "is_latest": true,
+    "content": "Inventory reconciliation must be done monthly."
+  },
+  {
+    "doc_id": "SOP_025",
+    "module": "Inventory",
+    "submodule": "GRN / Incoming Materials",
+    "status": "Approved",
+    "version": "v2",
+    "is_latest": true,
+    "content": "Material quality must be checked before GRN approval."
+  }
+]
